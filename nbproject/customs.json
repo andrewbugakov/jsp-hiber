@@ -1,0 +1,11 @@
+{
+    "attributes": {
+        "value": {
+            "context": "select"
+        },
+        "type": {
+            "context": "select"
+        }
+    },
+    "elements": {}
+}

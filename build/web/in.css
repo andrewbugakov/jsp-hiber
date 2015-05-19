@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11.04.2015, 9:29:19
+    Author     : БОСС ЗДЕСЬ
+*/
+@CHARSET "UTF-8";
+body{
+                background-color: aquamarine;
+            }
+            input{
+                width: 15%;
+            }
+            input#in{
+                width: 100%;
+                //background: #fff; /* Цвет фона */
+                //color: #333;  /* Цвет текста */
+            }
+            .selected{
+                background: #333; /* Цвет фона */
+                color: #f3bd48;
+            }
+            tr#insert{
+                background: #fff; /* Цвет фона */
+                color: #333;  /* Цвет текста */
+            }
+
+   input{
+       width: 20%;
+   }
+   input#insert{
+       background: #fff; /* Цвет фона */
+       color: #333;  /* Цвет текста */
+   }
+   table {
+    width: 100%; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+   }
+   td, th {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid #000; /* Параметры рамки */
+    /*width: 100px;*/
+   }
+   tr#ttl{
+       background: #afd792; /* Цвет фона */
+       color: #333;  /* Цвет текста */
+   }
+   .selected{
+       background: #333; /* Цвет фона */
+       color: #f3bd48;
+   }
+   th {
+    background: #afd792; /* Цвет фона */
+    color: #333;  /* Цвет текста */
+   }
+   tbody tr:hover {
+    background: #f3bd48; /* Цвет фона при наведении */
+    color: #fff; /* Цвет текста при наведении */
+   }
+   
